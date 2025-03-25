@@ -33,9 +33,12 @@ body{
 }
 
 .temperature-head{
-    font-size: 3.38rem;
     margin: 23px 0;
     display: flex;
+}
+
+.temp{
+    font-size: 3.38rem;
 }
 
 .temperature-head span{
